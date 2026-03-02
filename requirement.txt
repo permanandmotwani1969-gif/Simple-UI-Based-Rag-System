@@ -1,6 +1,5 @@
-streamlit==1.31.0
-pypdf2
-faiss-cpu==1.7.4
-sentence-transformers==2.2.2
-numpy==1.24.3
-groq
+faiss-cpu
+streamlit
+sentence-transformers
+pypdf
+numpy
